@@ -23,11 +23,11 @@ dd .details {font-family: Oswald; font-size: 14px;}
 dd {display: inline; margin: 0;}
 dd::after {content: " "; display: block; clear: both; margin-bottom: 15px;}
 
-.price {float: right; padding: 0 0 35px 20px;}
+.price {float: right; padding: 0 0 35px 20px; font-family: Oswald; font-size: 14px;}
 #starters, #desserts {box-sizing:border-box;  border: 2px solid black;}
 
 
 
 /* Right-align the text of the address/footer */
-address, br{text-align: end; font-family: Oswald;}
+address, br{text-align: end; font-family: Oswald; font-size: 14px;}
 /* draw a 2px thick black border around the starters and desserts sections of the menu */
